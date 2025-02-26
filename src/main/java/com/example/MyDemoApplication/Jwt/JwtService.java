@@ -10,7 +10,7 @@ import java.util.Date;
 @Service
 public class JwtService {
 
-    private static final String SECRETKEY = "4f3a1f9b8c5e1a2c4d1f8e5b3c9a7e6f3b6a2d4f1e8c9b5a2d3e7f1b8c6e5a4";
+    private static final String SECRETKEY = "";
 
     public JwtService(){
 
